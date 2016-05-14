@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">5 think you to know</string>
+    <string name="benar_button">true</string>
+    <string name="salah_button">false</string>
+    <string name="correct_toast">jawaban benar!</string>
+    <string name="incorrect_toast">jawaban salah!</string>
+
+    <string name="prev_button">prev</string>
+    <string name="next_button">next</string>
+
+    <string name="pertanyaan_surabaya">Surabaya merupakan ibu kota Jawa Timur</string>
+    <string name="pertanyaan_yogyakarta">daerah istimewa yogyakarta ialah ibu kota Indonesia</string>
+    <string name="pertanyaan_ITS">kepanjangan dari "S" pada ITS adalah Surabaya</string>
+    <string name="pertanyaan_IAK">kepanjangan IAK adalah Indonesia Android Kejar</string>
+    <string name="pertannyaan_proklamator">Ir. Soekarno merupakan salah satu proklamator Indonesia</string>
+
+    <string name="warning_text">are you sure want to do this?</string>
+    <string name="show_answer_button">show answer</string>
+    <string name="Cheat_button">Cheat!</string>
+    <string name="judment_toast">Cheating is wrong.</string>
+    <string name="title_activity_cheat">Cheat</string>
+    <string name="cheat_button">cheat</string>
+    <string name="tidak_benar_salah"></string>
+    <string name="api_textView">Api Level</string>
+    <string name="cheat">cheat</string>
+</resources>
